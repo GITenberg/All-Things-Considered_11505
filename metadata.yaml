@@ -1,0 +1,42 @@
+_repo: All-Things-Considered_11505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Title; Contents; The Case for the Ephemeral; Cockneys and Their Jokes;
+  The Fallacy of Success; On Running After One's Hat; The Vote and the House; Conceit
+  and Caricature; Patriotism and Sport; An Essay on Two Cities; French and English;
+  The Zola Controversy; Oxford from Without; Woman; The Modern Martyr; On Political
+  Secrecy; Edward VII and Scotland; Thoughts Around Koepenick; The Boy; Limericks
+  and Counsels of Perfection; Anonymity and Further Counsels; On the Cryptic and the
+  Elliptic; The Worship of the Wealthy; Science and Religion; The Methuselahite; Spiritualism.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The case for the ephemeral -- Cockneys and their jokes -- The fallacy
+  of success -- On running after one's hat -- The vote and the house -- Conceit and
+  caricature -- Patriotism and sport -- An essay on two cities -- French and English
+  -- The Zola controversy -- Oxford from without -- Woman -- The modern martyr --
+  On political secrecy -- Thoughts around Koepenick -- The boy -- On the cryptic and
+  the elliptic -- The worship of the wealthy -- The Methuselahite -- The error of
+  impartiality -- Fairy tales -- Tom Jones and morality -- The Maid of Orleans --
+  A dead poet -- Christmas.
+title: All Things Considered
+url: http://www.gutenberg.org/ebooks/11505
