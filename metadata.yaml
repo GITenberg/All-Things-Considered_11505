@@ -1,5 +1,8 @@
 _repo: All-Things-Considered_11505
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chesterton, G. K. (Gilbert Keith)
@@ -18,6 +21,8 @@ description: Title; Contents; The Case for the Ephemeral; Cockneys and Their Jok
   Secrecy; Edward VII and Scotland; Thoughts Around Koepenick; The Boy; Limericks
   and Counsels of Perfection; Anonymity and Further Counsels; On the Cryptic and the
   Elliptic; The Worship of the Wealthy; Science and Religion; The Methuselahite; Spiritualism.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11505#All-Things-Considered
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
